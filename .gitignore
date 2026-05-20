@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+accounts.json
+settings.json
+tasks_*.json
+
+build/
+dist/
+*.spec
+
+*.xlsx
